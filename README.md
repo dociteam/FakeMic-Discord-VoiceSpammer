@@ -54,7 +54,7 @@ Supports Windows, Linux
 
 ### How-to-make-this-source Video on YouTube:
 
-**16uLpTNXMFc5HuTJYMsCQmr7dW4JbrZ33d**
+https://youtu.be/3wuy4R4Jb6w
 
 ### Our Discord Channel For Q&A:
 
